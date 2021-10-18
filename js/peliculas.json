@@ -1,0 +1,58 @@
+{"peliculas":
+    [
+	{
+	    "0": {"imagen":"img/padrino.png"},
+	    "config": {
+		"nombre": "El Padrino",
+		"clasificacion": "C (Películas para mayores de 15 años).",
+        "tipo": "Trallock Basic.",
+        "horario": "(4:55 p.m)(9.00 p.m.)(10:10 p.m.)"
+	    }
+	},
+	{
+	    "0": {"imagen":"img/psicosis.png"},
+	    "config": {
+		"nombre": "Psicosis",
+		"clasificacion": "C (Películas para mayores de 15 años).",
+        "tipo": "Cuvex",
+        "horario": "(2:10 p.m.)(4:30 p.m.)(7:00 p.m.)  "
+	    }
+	},
+	{
+	    "0": {"imagen":"img/china.png"},
+	    "config": {
+		"nombre": "Chinatown",
+		"clasificacion": "C (Películas para mayores de 15 años).",
+        "tipo": "Radom",
+        "horario": "(1:30 p.m)(2:35 p.m.)(3:45 p.m.)(6:00 p.m.)."
+	    }
+	},
+	{
+	    "0": {"imagen":"img/blade.png"},
+	    "config": {
+		"nombre": "Blade Runner 2049",
+		"clasificacion": "C (Películas para mayores de 15 años).",
+        "tipo": "Radom",
+        "horario": "(2:40 p.m.)"
+	    }
+	},
+	{
+	    "0": {"imagen":"img/tiburon.png"},
+	    "config": {
+		"nombre": "Tiburón",
+		"clasificacion": "C (Películas para mayores de 15 años).",
+        "tipo": "Trallock Basic.",
+        "horario": "(4:20 p.m.)(6:45 p.m.)(8:40 p.m.)"
+	    }
+	},
+    {
+	    "0": {"imagen":"img/galaxia.png"},
+	    "config": {
+		"nombre": "La guerra de las galaxias.",
+		"clasificacion": "C (Películas para mayores de 15 años).",
+        "tipo": "Cuvex",
+        "horario": "(2:50 p.m.)(5:20 p.m.)(9:30 p.m.)"
+	    }
+	}
+    ]
+}
